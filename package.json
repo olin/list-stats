@@ -1,0 +1,11 @@
+{
+  "name": "helpme-stats",
+  "main": "index.js",
+  "version": "0.0.1",
+  "dependencies": {
+    "async": "~0.2.5",
+    "express": "~3.1.0",
+    "olinapps": "~0.1.2",
+    "request": "~2.14.0"
+  }
+}
