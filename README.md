@@ -15,7 +15,7 @@ Run the above, open <http://localhost:3000>
 
 ![http://i.imgur.com/CfVWDqo.png](http://i.imgur.com/CfVWDqo.png)
 
-After the content downloads...
+After the content downloads, it shows a list like:
 
 ```
 {
